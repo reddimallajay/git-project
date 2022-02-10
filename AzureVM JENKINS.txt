@@ -1,0 +1,7 @@
+79edb5847f3748ec8de1c314730b2a9e
+
+http://40.121.245.211:8080/
+VM: azureuser
+password:admin@123456
+jenkins:admin
+password:admin
